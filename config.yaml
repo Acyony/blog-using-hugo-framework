@@ -81,6 +81,8 @@ params:
   social:
     - id: github
       name: ole108
+    - id: linkedin
+      name: ole-bulbuk-96794170
 #  - id: hugo
 #    url: "https://github.com/ole108"
 #    icon: "hugo"
