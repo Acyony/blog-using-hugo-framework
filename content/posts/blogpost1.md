@@ -1,10 +1,6 @@
 ---
 title: "This is my first post"
 date: 2022-07-05T09:40:08+02:00
-draft: true
-menu:
-    main:
-        name: Blog
 ---
 
 # This is a test heading

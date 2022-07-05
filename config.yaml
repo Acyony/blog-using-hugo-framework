@@ -11,20 +11,15 @@ menu:
   main:
     - identifier: about
       name: About
-      title: Services
+      title: about
       url: /about/
-      weight: 110
+      weight: 200
 
     - identifier: blog
       name: Blog
       title: blog
       url: /posts/
-      weight: 200
-
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 300
+      weight: 100
 
 params:
   author: "Ole Bulbuk "
