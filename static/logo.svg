@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no" ?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="234px" height="234px">
+  <path d="M84,66 h-72
+	    M84,66 v48
+	    M48,66 v36
+	    M12,66 v24"
+		transform="rotate(45 84 66)" stroke="#0091d3" stroke-width="24" stroke-linecap="round" />
+  <circle cx="117" cy="30" r="30" fill="#0aa00a" />
+  <path d="M51,78
+		h60
+		a6,6 0 0,1 6,6
+		v60"
+		transform="rotate(-45 117 78)" stroke="#0091d3" stroke-width="24" stroke-linecap="round" fill="none" />
+  <path d="M117,126 v66"
+		stroke="#0091d3" stroke-width="24" stroke-linecap="round" fill="none" />
+  <rect x="57" y="210" width="120" height="24" fill="#b00b0b" />
+  <path d="M150,66 v-72
+		m0,0 h24
+	    m0,0 L198,66
+		M150,42 h36"
+		transform="rotate(45 150 66)" stroke="#0091d3" stroke-width="24" stroke-linecap="round" />
+</svg>
